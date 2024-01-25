@@ -1,4 +1,4 @@
-USE pizzeria;
+USE diak_pizzeria;
 INSERT INTO futarok( futarnev, tel ) VALUES 
 	( 'Mororos Géza', '123456' ),
 	( 'Gyalogos László', '666666' ),
